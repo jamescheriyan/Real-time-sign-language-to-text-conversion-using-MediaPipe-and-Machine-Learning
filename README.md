@@ -4,7 +4,8 @@ The field of computer vision and machine learning has witnessed remarkable advan
 Recognizing the transformative power of technology in this domain, this master project paper delves into the realm of sign language recognition, with a focus on American Sign Language (ASL) finger spelling alphabets is in Fig1. The goal is to develop efficient and accurate models that can automatically convert sign language finger spelling gestures into textual representations in real time. By doing so, this project aims to enhance communication accessibility, promote inclusion, and empower individuals who rely on sign language as their primary mode of expression.
 
 
-![video](https://github.com/jamescheriyan/Real-time-sign-language-to-text-conversion-using-MediaPipe-and-Machine-Learning/assets/63226335/5b60a829-b168-4b86-881a-8d307d2f0e96)
+![image](https://github.com/jamescheriyan/Real-time-sign-language-to-text-conversion-using-MediaPipe-and-Machine-Learning/assets/63226335/423f70df-4d13-4a10-a0d4-9d3ca0cdb9f8)
+
 
 
 Fig 1 - ASL fingerspelling [2]
@@ -13,7 +14,10 @@ This paper undertakes a comprehensive exploration of various deep learning model
 In the following sections, the paper delves into the methodologies, experimental setups, results, and implications of the research, shedding light on the intricacies of sign language recognition and the transformative potential of technology in promoting communication inclusivity.
 
 # Real-time result of sign language to text conversion using MediaPipe and ML
-<img width="635" alt="image" src="https://github.com/jamescheriyan/Real-time-sign-language-to-text-conversion-using-MediaPipe-and-Machine-Learning/assets/63226335/59a4053f-e69a-4299-a35c-ece202e196a9">
+
+
+https://github.com/jamescheriyan/Real-time-sign-language-to-text-conversion-using-MediaPipe-and-Machine-Learning/assets/63226335/8c3e63cb-c524-4c19-9d0a-1b39c0d746c3
+
 
 
 # Discussion
