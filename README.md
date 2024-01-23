@@ -2,6 +2,8 @@
 Recognizing the transformative power of technology in this domain, this master project paper delves into the realm of sign language recognition, with a focus on American Sign Language (ASL) finger spelling alphabets .
 The field of computer vision and machine learning has witnessed remarkable advancements in recent years, revolutionizing the way we perceive and interact with visual data. One of the areas where these technologies hold profound potential is in sign language recognition and interpretation, particularly beneficial for the deaf and hard of hearing community. Sign language, as a unique and expressive form of communication, bridges the gap between different modes of expression, enabling seamless interactions between individuals who communicate using spoken language and those who employ sign language [1].
 Recognizing the transformative power of technology in this domain, this master project paper delves into the realm of sign language recognition, with a focus on American Sign Language (ASL) finger spelling alphabets is in Fig1. The goal is to develop efficient and accurate models that can automatically convert sign language finger spelling gestures into textual representations in real time. By doing so, this project aims to enhance communication accessibility, promote inclusion, and empower individuals who rely on sign language as their primary mode of expression.
+
+
 ![image](https://github.com/jamescheriyan/Real-time-sign-language-to-text-conversion-using-MediaPipe-and-Machine-Learning/assets/63226335/5b60a829-b168-4b86-881a-8d307d2f0e96)
 
 
