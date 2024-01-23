@@ -4,7 +4,7 @@ The field of computer vision and machine learning has witnessed remarkable advan
 Recognizing the transformative power of technology in this domain, this master project paper delves into the realm of sign language recognition, with a focus on American Sign Language (ASL) finger spelling alphabets is in Fig1. The goal is to develop efficient and accurate models that can automatically convert sign language finger spelling gestures into textual representations in real time. By doing so, this project aims to enhance communication accessibility, promote inclusion, and empower individuals who rely on sign language as their primary mode of expression.
 
 
-![image](https://github.com/jamescheriyan/Real-time-sign-language-to-text-conversion-using-MediaPipe-and-Machine-Learning/assets/63226335/5b60a829-b168-4b86-881a-8d307d2f0e96)
+![video](https://github.com/jamescheriyan/Real-time-sign-language-to-text-conversion-using-MediaPipe-and-Machine-Learning/assets/63226335/5b60a829-b168-4b86-881a-8d307d2f0e96)
 
 
 Fig 1 - ASL fingerspelling [2]
